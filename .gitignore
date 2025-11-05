@@ -1,2 +1,5 @@
 # Agregar directorios/archivos que no es necesario o no se deban commitear
 .venv*
+*.log
+*.ps1
+.ipynb_checkpoints
