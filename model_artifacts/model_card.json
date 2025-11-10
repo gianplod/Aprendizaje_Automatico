@@ -1,0 +1,7 @@
+{
+  "model_name": "houseprice_final_model",
+  "created_at": "2025-11-09T19:12:51",
+  "python": "3.10.11",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "notes": "Target en log; devolver a escala con expm1; reindex con model_columns.csv"
+}
