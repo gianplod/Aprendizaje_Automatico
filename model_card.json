@@ -1,7 +1,0 @@
-{
-  "model_name": "houseprice_gbr_final",
-  "created_at": "2025-11-07T20:35:02",
-  "python": "3.11.9",
-  "platform": "macOS-26.1-arm64-arm-64bit",
-  "notes": "Target en log; devolver a escala con expm1; reindex con model_columns.csv"
-}
