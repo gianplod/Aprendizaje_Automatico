@@ -1,0 +1,1 @@
+Repositorio dedicado a guardar el código para el trabajo final de la materia "Aprendizaje Automatico", en el marco del posgrado "Especialización en Ciencia de Datos" dictado en la Universidad Nacional de La Matanza (UNLaM).
